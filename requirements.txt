@@ -1,0 +1,12 @@
+anthropic
+python-dotenv
+pydantic
+chromadb
+sentence-transformers
+rank_bm25
+kiwipiepy
+numpy
+fastapi
+uvicorn
+gradio
+pytest
